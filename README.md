@@ -4,7 +4,11 @@ The Expense Tracker is a simple web-based application . It helps users record, m
 -Add tractions
 -view balance
 -Delete transactions
+-Responsive design
+-Hosted on GitHub Pages
 ## Technologies Used
 -HTML
 -CSS
 -JavaScript
+#Live Demo
+https://gantarohinilaxmi.github.io/EXPENSE-TRACKER/
